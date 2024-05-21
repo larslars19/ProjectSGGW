@@ -1,0 +1,153 @@
+[
+  {
+    "killCount": 123,
+    "knownVictims": [],
+    "firstName": "Ireneusz",
+    "lastName": "M\u0142ot",
+    "aliaces": [
+      "Kleszcz"
+    ],
+    "Status": 1,
+    "metadata": {
+      "dateOfBirth": null,
+      "placeOfBirth": null,
+      "citizenship": null,
+      "sex": null,
+      "height": null,
+      "weight": null,
+      "eyeColor": null,
+      "hairColor": null,
+      "features": null,
+      "photo": null
+    },
+    "speciality": 2,
+    "knownLocations": [],
+    "syndicate": null,
+    "verdict": null
+  },
+  {
+    "killCount": 4,
+    "knownVictims": [
+      "Maria B",
+      "Stefania M.",
+      "Helga S."
+    ],
+    "firstName": "Bogdan Eugeniusz",
+    "lastName": "Arnold",
+    "aliaces": [],
+    "Status": 4,
+    "metadata": {
+      "dateOfBirth": null,
+      "placeOfBirth": null,
+      "citizenship": null,
+      "sex": null,
+      "height": null,
+      "weight": null,
+      "eyeColor": null,
+      "hairColor": null,
+      "features": null,
+      "photo": null
+    },
+    "speciality": 2,
+    "knownLocations": [
+      {
+        "Longitude": 18.957017401094724,
+        "Latitude": 50.22887453717144
+      }
+    ],
+    "syndicate": null,
+    "verdict": "Kara \u015Bmierci"
+  },
+  {
+    "killCount": 1,
+    "knownVictims": [],
+    "firstName": "Gary Leon",
+    "lastName": "Ridgway",
+    "aliaces": [],
+    "Status": 3,
+    "metadata": {
+      "dateOfBirth": null,
+      "placeOfBirth": null,
+      "citizenship": null,
+      "sex": null,
+      "height": null,
+      "weight": null,
+      "eyeColor": null,
+      "hairColor": null,
+      "features": null,
+      "photo": null
+    },
+    "speciality": 2,
+    "knownLocations": [],
+    "syndicate": null,
+    "verdict": "7 lat pozbawienia wolno\u015Bci"
+  },
+  {
+    "stolenValue": 10000,
+    "firstName": "Sofia",
+    "lastName": "Rodriguez",
+    "aliaces": [],
+    "Status": 2,
+    "metadata": {
+      "dateOfBirth": null,
+      "placeOfBirth": null,
+      "citizenship": null,
+      "sex": null,
+      "height": null,
+      "weight": null,
+      "eyeColor": null,
+      "hairColor": null,
+      "features": null,
+      "photo": null
+    },
+    "speciality": 1,
+    "knownLocations": [],
+    "syndicate": {
+      "name": null,
+      "population": 0,
+      "location": {
+        "Longitude": 0,
+        "Latitude": 0
+      }
+    },
+    "verdict": "W trakcie..."
+  },
+  {
+    "stolenValue": 1000,
+    "firstName": "Piotr",
+    "lastName": "Wi\u015Bniewski",
+    "aliaces": [],
+    "Status": 5,
+    "metadata": {
+      "dateOfBirth": null,
+      "placeOfBirth": null,
+      "citizenship": null,
+      "sex": null,
+      "height": null,
+      "weight": null,
+      "eyeColor": null,
+      "hairColor": null,
+      "features": null,
+      "photo": null
+    },
+    "speciality": 1,
+    "knownLocations": [],
+    "syndicate": null,
+    "verdict": "1 rok pozbawienia wolno\u015Bci"
+  },
+  {
+    "stolenValue": 500000,
+    "firstName": "Marta",
+    "lastName": "?",
+    "aliaces": [
+      "Jask\u00F3\u0142ka",
+      "Ptaszek"
+    ],
+    "Status": 1,
+    "metadata": null,
+    "speciality": 1,
+    "knownLocations": [],
+    "syndicate": null,
+    "verdict": null
+  }
+]
